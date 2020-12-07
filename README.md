@@ -16,11 +16,11 @@ The purpose of the project consists of using refactoring method to improve exist
 ## Advantages and Disadvantages of Refactoring Code 
 
 # Pros
-- Reuse existing codes and make them readable for other devlopers or analysists.
+- Reuse existing codes and make them readable for other programmers or analysists.
 - Easy maintenance
 
 
 # Cons
 
- - Risky when other develpers do not understand coding 
+ - Risky if other developers do not understand the codes
  - Can be time consuming to fix bugs
