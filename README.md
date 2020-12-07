@@ -9,4 +9,5 @@ The purpose of the project is to create a VBA script to loop through all stocks 
 - Return based on % increase and % decrease 
 
 
-![Stock Analysis 2018.PNG](https://github.com/assaci/Assessment/blob/main/Stock Analysis 2018.PNG?raw=true)
+
+![Stock_Analysis_2018.PNG](https://github.com/assaci/Assessment/blob/main/Stock_Analysis_2018.PNG?raw=true)
